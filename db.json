@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "jeferson.bruno@live.com",
+      "password": "$2a$10$Qxp/ONsmnDSJwwOfqNFP/ex3WjH3wweDvPD3oK0eOiufZ.sfjmDTO",
+      "name": "jefs",
+      "age": 26,
+      "id": 2
+    },
+    {
+      "email": "jeferson.teste@live.com",
+      "password": "$2a$10$GXgfNxxMk9WqS3hBFVl7Gu2q4.fHMRlyjEaD3LYvSmhReN7rCnbGK",
+      "name": "jefs",
+      "age": 26,
+      "id": 3
+    },
+    {
+      "email": "jeferson.teste@liive.com",
+      "password": "$2a$10$F4vjN/yip35qPXnaznVXJeKN.pXTqvrvodkjnjtwLCNLiIZ1pc7yG",
+      "name": "jefs",
+      "age": 26,
+      "favoriteTecgs": [],
+      "id": 4
+    },
+    {
+      "email": "jeferson.teste@livee.com",
+      "password": "$2a$10$06GifAoJvu2nqFzKvcYuuOTPBAB3zTNpA6sR0qHL36j7JN2eAiUGK",
+      "name": "jefs",
+      "age": 26,
+      "favoriteTechs": [],
+      "id": 5
+    }
+  ],
+  "animals": [
+    {
+      "tyoe": "Calopsita",
+      "name": "Teo",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "type": "piriquito",
+      "name": "Kiwi",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "favoritefood": [
+    {
+      "name_food": "Temaki",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name_food": "Pizza",
+      "userId": 2,
+      "id": 2
+    }
+  ]
+}
